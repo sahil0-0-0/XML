@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ProductList>
+    <Product id="1">
+        <Product_No>101</Product_No>
+        <Product_Name>Mixer Grinder</Product_Name>
+        <Category>Electronic</Category>
+        <Price>4199</Price>
+        <Quantity>150</Quantity>
+    </Product>
+    <Product id="2">
+        <Product_No>102</Product_No>
+        <Product_Name>Sunscreen</Product_Name>
+        <Category>Cosmetic</Category>
+        <Price>499</Price>
+        <Quantity>100</Quantity>
+    </Product>
+    <Product id="3">
+        <Product_No>103</Product_No>
+        <Product_Name>Himalaya Baby Shampoo</Product_Name>
+        <Category>Baby Care</Category>
+        <Price>249</Price>
+        <Quantity>120</Quantity>
+    </Product>
+    <Product id="4">
+        <Product_No>104</Product_No>
+        <Product_Name>Honitus</Product_Name>
+        <Category>OTC</Category>
+        <Price>149</Price>
+        <Quantity>50</Quantity>
+    </Product>
+    <Product id="5">
+        <Product_No>105</Product_No>
+        <Product_Name>Dove Soap</Product_Name>
+        <Category>Personal Care</Category>
+        <Price>49</Price>
+        <Quantity>150</Quantity>
+    </Product>
+</ProductList>
